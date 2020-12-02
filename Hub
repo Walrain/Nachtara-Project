@@ -2,6 +2,13 @@
 <html>
   <head>
     <link rel="stylesheet" href="style.css">
+    
+     <style> 
+    li { font-family:cursive; }
+    h1 { font-family: serif; }
+    h2 { font-family: serif; }
+    h3 { font-family: serif; }
+    </style>
   </head>
   <body>
     <h1> The Nachtara Project</h1>
