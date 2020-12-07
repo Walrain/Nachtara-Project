@@ -3,13 +3,20 @@
   <head>
     <link rel="stylesheet" href="style.css">
     
-     <style> 
-    li { font-family:cursive; }
-    h1 { font-family: serif; }
-    h2 { font-family: serif; }
-    h3 { font-family: serif; }
+  <style> 
+     body {background-color: black;}
+    li { font-family: serif; 
+         color: Cornflowerblue; }
+    h1 { font-family: serif; 
+         color: Cornsilk;
+         font-size: 30px;}
+    h2 { font-family: serif; 
+         color: Cornflowerblue;}
+    h3 { font-family: serif;
+     color: Cornflowerblue;}
     </style>
-  </head>
+ 
+ </head>
   <body>
     <h1> The Nachtara Project</h1>
     
